@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "stormbreaker-project/kernel_xiaomi_vince",
+    "target_path": "kernel/xiaomi/vince",
+    "branch": "r11.0-test",
+    "remote": "github"
+ },
+  {
+    "repository": "Mahmoudk1000/android_vendor_xiaomi",
+    "target_path": "vendor/xiaomi/vince",
+    "branch": "eleven",
+    "remote": "github"
+ },
+  {
+    "repository": "Unitrix-Kernel/unitrix-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-11",
+    "branch": "master",
+    "remote": "github"
+ }
+]
