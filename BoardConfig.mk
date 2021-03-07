@@ -237,3 +237,6 @@ WIFI_HIDL_UNIFIED_SUPPLICANT_SERVICE_RC_ENTRY := true
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/vince/BoardConfigVendor.mk
+
+# Never allow enable tag
+SELINUX_IGNORE_NEVERALLOWS := true
