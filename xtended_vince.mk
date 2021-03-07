@@ -26,10 +26,10 @@ $(call inherit-product, vendor/xtended/config/common.mk)
 
 TARGET_BOOT_ANIMATION_RES := 1440
 
-XTENDED_BUILD_TYPE := OFFICIAL
+XTENDED_BUILD_TYPE := UNOFFICIAL
 
 # Maintainer
-XTENDED_MAINTAINER := mahmoudk1000
+XTENDED_MAINTAINER := mendik
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := vince
